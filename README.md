@@ -17,3 +17,6 @@
 - Document‑level security
 - Testing and validation using multiple user accounts
 - This lab simulates real‑world SharePoint administration tasks performed by IT Support teams.
+
+## [SharePoint Admin Lab: Site Creation, User Access, Permissions & Licensing Setup (Microsoft 365)
+   https://www.youtube.com/watch?v=tjuW9N3P55A
