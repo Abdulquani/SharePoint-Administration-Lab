@@ -10,6 +10,9 @@
       2) Document 2: Edit access for selected users, read‑only for others
  - Tested all permissions by logging in as multiple users
 
+## [SharePoint Admin Lab: Site Creation, User Access, Permissions & Licensing Setup (Microsoft 365)
+   https://www.youtube.com/watch?v=tjuW9N3P55A
+
 ## Skills demonstrated
 - Microsoft 365 user provisioning
 - SharePoint site creation and configuration
@@ -18,5 +21,3 @@
 - Testing and validation using multiple user accounts
 - This lab simulates real‑world SharePoint administration tasks performed by IT Support teams.
 
-## [SharePoint Admin Lab: Site Creation, User Access, Permissions & Licensing Setup (Microsoft 365)
-   https://www.youtube.com/watch?v=tjuW9N3P55A
